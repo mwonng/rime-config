@@ -1,0 +1,6 @@
+patch:
+  "menu/page_size": 5
+  ascii_composer/switch_key/Caps_Lock: "commit_text"
+  ascii_composer/switch_key/Shift_L: "commit_code"
+  switcher/option_list_separator: "/"
+  switcher/caption: "【设置菜单】"
